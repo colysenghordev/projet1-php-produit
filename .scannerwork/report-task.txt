@@ -1,0 +1,6 @@
+projectKey=diayemadiayema
+serverUrl=http://127.0.0.1:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=diayemadiayema
+ceTaskId=AWwAa0wSCzpFNw1uNYff
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AWwAa0wSCzpFNw1uNYff
